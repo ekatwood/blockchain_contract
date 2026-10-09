@@ -43,8 +43,8 @@ class _MainContractFormPageState extends State<MainContractFormPage> {
     'Ethereum',
     'Arbitrum',
     'Optimism',
-    'Polygon',
-    'Base',
+    'Avalanche',
+    'Polygon'
   ];
 
   // Contract Action Selection
