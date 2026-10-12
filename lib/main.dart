@@ -50,6 +50,8 @@ class _MainContractFormPageState extends State<MainContractFormPage> {
   // Contract Action Selection
   String _selectedAction = 'Mint Token';
   final List<String> _actions = [
+    'Send with note',
+    'Request with note',
     'Mint Token',
     'Instantiate NFT',
     'Set Price Swap',
